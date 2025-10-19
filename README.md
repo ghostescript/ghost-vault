@@ -12,6 +12,11 @@ python ghost.vault.py
 
 <br>
 
+# Quick Usage 
+![alt text](https://raw.githubusercontent.com/ghostescript/ghost-vault/refs/heads/main/files/Screenshot_20251018-225746_Termux.jpg)
+
+<br>
+
 # Examples
 
 * create
